@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">wifiadb</string>
+    <string name="open_adb">开启wifiAdb</string>
+</resources>
